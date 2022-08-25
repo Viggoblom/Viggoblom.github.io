@@ -5,5 +5,12 @@ body{
 #namn{
     text-align: center;
     color: antiquewhite;
-    font-size: xx-large;
+    
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+  }
