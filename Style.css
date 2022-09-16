@@ -28,3 +28,13 @@
 .textLarge {
     font-size: large;
 }
+
+#credit {
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+
+#credit a{
+   color: #000000;
+}
