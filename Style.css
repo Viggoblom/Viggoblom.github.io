@@ -1,25 +1,30 @@
-body{
-    background-color: white;
+.centerIcon{
+    margin-top: -10px;
+}
+.findMe{
+    font-size: x-large;
+}
+.grayColor{
+    color: #000000 !important;
+}
+.education{
+    background-image: url("../assets/img/study.png");
+    background-size: cover;
+    background-color: rgb(204, 204, 204);
+    background-blend-mode: overlay;
+}
+.spaceTop{
+    padding-top: 50px;
 }
 
-a{
-    color: black;
-
+.linkOnBlue{
+    color: rgb(34, 34, 34);
+    text-decoration: underline;
+}
+.linkOnBlue:hover{
+    color: rgb(68, 68, 68);
 }
 
-a:hover{
-    color: dimgrey;
-
-}
-
-#namn{
-    text-align: center;
-    color: black;
-    font-size: 300%;
-}
-
-.text{
-    font-size: xx-large;
-    color: black;
-    text-align: center;
+.textLarge {
+    font-size: large;
 }
